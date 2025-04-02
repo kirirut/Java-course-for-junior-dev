@@ -1,2 +1,3 @@
 - [[Экосистема Spring]]
 - [[Контейнеры IoC]]
+- [[Spring BeanFactory Container]]
