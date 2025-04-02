@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java full course.md",
+                "file": "Java/Java full course.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java full course.md",
+                "file": "Java/Java full course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java full course.md",
+                "file": "Java/Java full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java full course.md",
+                "file": "Java/Java full course.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,9 +168,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d7642092aab20563",
+  "active": "25124218a9c98697",
   "lastOpenFiles": [
-    "Java full course.md",
-    "создайте ссылку.md"
+    "Без названия/создайте ссылку.md",
+    "Java/Java full course.md",
+    "Java"
   ]
 }
