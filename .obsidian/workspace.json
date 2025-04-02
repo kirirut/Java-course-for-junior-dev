@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Basic Syntax Maintenance"
             }
+          },
+          {
+            "id": "577c65db2fc0b0ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn the basics/Basic Syntax Maintenance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Basic Syntax Maintenance"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn the basics/Basic Syntax Maintenance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Basic Syntax Maintenance"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -142,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn the basics/Basic Syntax Maintenance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Basic Syntax Maintenance"
+              "title": "Структура"
             }
           }
         ]
@@ -168,19 +176,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d7642092aab20563",
+  "active": "577c65db2fc0b0ad",
   "lastOpenFiles": [
-    "Learn the basics/Termins.md",
+    "Learn the basics/OOP Basics/OOP Maintenance.md",
+    "Learn the basics/Basic Syntax Maintenance.md",
     "Learn the basics/Math Operations.md",
     "Learn the basics/Data Types and Variables.md",
+    "Learn the basics/OOP Basics/More/OOP Principes/OOP Principes Maintenance.md",
+    "Learn the basics/OOP Basics/Classes and Objects.md",
+    "Learn the basics/OOP Basics/More/More Maintenance.md",
+    "Java backend maintenance.md",
+    "Spring Framework/Экосистема Spring.md",
+    "Spring Framework/Контейнеры IoC.md",
+    "Learn the basics/Termins.md",
     "Learn the basics/Strings and Methods.md",
     "Learn the basics/Arrays.md",
-    "Learn the basics/Basic Syntax Maintenance.md",
-    "Learn the basics/OOP Basics/More/OOP Principes/OOP Maintenance.md",
     "Learn the basics/OOP Basics/More/OOP Principes/Inheritance.md",
     "Learn the basics/OOP Basics/More/OOP Principes/Encapsulation.md",
     "Learn the basics/OOP Basics/More/OOP Principes/Interfaces.md",
-    "Learn the basics/OOP Basics/More/More Maintenance.md",
     "Learn the basics/OOP Basics/More/Static vs Dynamic Binding.md",
     "Learn the basics/OOP Basics/More/Method Overloading and Overriding.md",
     "Learn the basics/OOP Basics/More/OOP Principes/Abstraction.md",
@@ -190,14 +203,9 @@
     "Learn the basics/OOP Basics/More/Method Chaining.md",
     "Learn the basics/OOP Basics/More/Object Lifecycle.md",
     "Learn the basics/OOP Basics/More/Enums.md",
-    "Learn the basics/OOP Basics/OOP Maintenance.md",
     "Learn the basics/OOP Basics/More",
     "Learn the basics/OOP Basics/Packages.md",
     "Learn the basics/OOP Basics/Static Keyword.md",
-    "Learn the basics/OOP Basics/Nested Classes.md",
-    "Learn the basics/OOP Basics/Final Keyword.md",
-    "Learn the basics/OOP Basics/Access Specifiers.md",
-    "Learn the basics/OOP Basics/Attributes and Methods.md",
     "Learn the basics/OOP Basics",
     "Spring Framework",
     "SQl",

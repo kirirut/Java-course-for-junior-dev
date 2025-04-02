@@ -3,6 +3,6 @@
 - [[Enums]]
 - [[Initializer Block]]
 - [[Pass by Value or Pass by Reference]]
-- [[Learn the basics/OOP Basics/More/OOP Principes/OOP Maintenance|OOP Maintenance]]
+- [[OOP Principes Maintenance|OOP Principes Maintenance]]
 - [[Method Overloading and Overriding]]
 - [[Static vs Dynamic Binding]]
