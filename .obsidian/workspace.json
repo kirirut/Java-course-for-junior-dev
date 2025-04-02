@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java maintenance.md",
+                "file": "Spring Framework/Контейнеры IoC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java maintenance"
+              "title": "Контейнеры IoC"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java maintenance.md",
+                "file": "Spring Framework/Контейнеры IoC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Java maintenance"
+              "title": "Обратные ссылки для Контейнеры IoC"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java maintenance.md",
+                "file": "Spring Framework/Контейнеры IoC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Java maintenance"
+              "title": "Исходящие ссылки из Контейнеры IoC"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java maintenance.md",
+                "file": "Spring Framework/Контейнеры IoC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Java maintenance"
+              "title": "Структура Контейнеры IoC"
             }
           }
         ]
@@ -185,34 +185,35 @@
   },
   "active": "577c65db2fc0b0ad",
   "lastOpenFiles": [
-    "image/Pasted image 20250402233316.png",
-    "image",
-    "Java backend maintenance.md",
-    "Java/Java maintenance.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes/Abstraction.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes/Encapsulation.md",
     "Java/Learn the basics/OOP Basics/OOP Maintenance.md",
-    "Java/Learn the basics/Basic Syntax Maintenance.md",
-    "Java/Learn the basics/Math Operations.md",
-    "Java/Learn the basics/Data Types and Variables.md",
     "Java/Learn the basics/OOP Basics/More/OOP Principes/OOP Principes Maintenance.md",
-    "Java/Learn the basics/OOP Basics/Classes and Objects.md",
     "Java/Learn the basics/OOP Basics/More/More Maintenance.md",
+    "Java/Learn the basics/OOP Basics/More/Method Overloading and Overriding.md",
+    "Java/Learn the basics/OOP Basics/More/Method Chaining.md",
+    "Java/Learn the basics/OOP Basics/More/Initializer Block.md",
+    "Java/Learn the basics/OOP Basics/More/Enums.md",
+    "Java/Learn the basics/OOP Basics/Access Specifiers.md",
+    "Java/Learn the basics/OOP Basics/Attributes and Methods.md",
+    "Java/Learn the basics/OOP Basics/Nested Classes.md",
+    "Java/Learn the basics/OOP Basics/Final Keyword.md",
+    "Java/Learn the basics/OOP Basics/Classes and Objects.md",
+    "Java/Learn the basics/Termins.md",
+    "Java/Learn the basics/Basic Syntax Maintenance.md",
+    "Java/Java maintenance.md",
+    "Java backend maintenance.md",
+    "Spring Framework/Spring maintanance.md",
     "Spring Framework/Экосистема Spring.md",
     "Spring Framework/Контейнеры IoC.md",
-    "Java/Learn the basics/Termins.md",
+    "image/Pasted image 20250402233316.png",
+    "image",
+    "Java/Learn the basics/Math Operations.md",
+    "Java/Learn the basics/Data Types and Variables.md",
     "Java/Learn the basics/Strings and Methods.md",
     "Java/Learn the basics/Arrays.md",
     "Java/Learn the basics/OOP Basics/More/OOP Principes/Inheritance.md",
-    "Java/Learn the basics/OOP Basics/More/OOP Principes/Encapsulation.md",
-    "Java/Learn the basics/OOP Basics/More/OOP Principes/Interfaces.md",
-    "Java/Learn the basics/OOP Basics/More/Static vs Dynamic Binding.md",
-    "Java/Learn the basics/OOP Basics/More/Method Overloading and Overriding.md",
-    "Java/Learn the basics/OOP Basics/More/OOP Principes/Abstraction.md",
     "Java/Learn the basics/OOP Basics/More/OOP Principes",
-    "Java/Learn the basics/OOP Basics/More/Pass by Value or Pass by Reference.md",
-    "Java/Learn the basics/OOP Basics/More/Initializer Block.md",
-    "Java/Learn the basics/OOP Basics/More/Method Chaining.md",
-    "Java/Learn the basics/OOP Basics/More/Object Lifecycle.md",
-    "Java/Learn the basics/OOP Basics/More/Enums.md",
     "Java/Learn the basics/OOP Basics/More",
     "Java/Learn the basics/OOP Basics",
     "Spring Framework",
