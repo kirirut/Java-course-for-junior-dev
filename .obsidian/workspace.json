@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn the basics/Basic Syntax Maintenance.md",
+                "file": "Java/Learn the basics/Basic Syntax Maintenance.md",
                 "mode": "source",
                 "source": false
               },
@@ -25,10 +25,14 @@
             "id": "577c65db2fc0b0ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java maintenance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java maintenance"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Java maintenance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Java maintenance"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Java maintenance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Java maintenance"
             }
           },
           {
@@ -151,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Java/Java maintenance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Java maintenance"
             }
           }
         ]
@@ -178,38 +185,39 @@
   },
   "active": "577c65db2fc0b0ad",
   "lastOpenFiles": [
-    "Learn the basics/OOP Basics/OOP Maintenance.md",
-    "Learn the basics/Basic Syntax Maintenance.md",
-    "Learn the basics/Math Operations.md",
-    "Learn the basics/Data Types and Variables.md",
-    "Learn the basics/OOP Basics/More/OOP Principes/OOP Principes Maintenance.md",
-    "Learn the basics/OOP Basics/Classes and Objects.md",
-    "Learn the basics/OOP Basics/More/More Maintenance.md",
+    "image/Pasted image 20250402233316.png",
+    "image",
     "Java backend maintenance.md",
+    "Java/Java maintenance.md",
+    "Java/Learn the basics/OOP Basics/OOP Maintenance.md",
+    "Java/Learn the basics/Basic Syntax Maintenance.md",
+    "Java/Learn the basics/Math Operations.md",
+    "Java/Learn the basics/Data Types and Variables.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes/OOP Principes Maintenance.md",
+    "Java/Learn the basics/OOP Basics/Classes and Objects.md",
+    "Java/Learn the basics/OOP Basics/More/More Maintenance.md",
     "Spring Framework/Экосистема Spring.md",
     "Spring Framework/Контейнеры IoC.md",
-    "Learn the basics/Termins.md",
-    "Learn the basics/Strings and Methods.md",
-    "Learn the basics/Arrays.md",
-    "Learn the basics/OOP Basics/More/OOP Principes/Inheritance.md",
-    "Learn the basics/OOP Basics/More/OOP Principes/Encapsulation.md",
-    "Learn the basics/OOP Basics/More/OOP Principes/Interfaces.md",
-    "Learn the basics/OOP Basics/More/Static vs Dynamic Binding.md",
-    "Learn the basics/OOP Basics/More/Method Overloading and Overriding.md",
-    "Learn the basics/OOP Basics/More/OOP Principes/Abstraction.md",
-    "Learn the basics/OOP Basics/More/OOP Principes",
-    "Learn the basics/OOP Basics/More/Pass by Value or Pass by Reference.md",
-    "Learn the basics/OOP Basics/More/Initializer Block.md",
-    "Learn the basics/OOP Basics/More/Method Chaining.md",
-    "Learn the basics/OOP Basics/More/Object Lifecycle.md",
-    "Learn the basics/OOP Basics/More/Enums.md",
-    "Learn the basics/OOP Basics/More",
-    "Learn the basics/OOP Basics/Packages.md",
-    "Learn the basics/OOP Basics/Static Keyword.md",
-    "Learn the basics/OOP Basics",
+    "Java/Learn the basics/Termins.md",
+    "Java/Learn the basics/Strings and Methods.md",
+    "Java/Learn the basics/Arrays.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes/Inheritance.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes/Encapsulation.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes/Interfaces.md",
+    "Java/Learn the basics/OOP Basics/More/Static vs Dynamic Binding.md",
+    "Java/Learn the basics/OOP Basics/More/Method Overloading and Overriding.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes/Abstraction.md",
+    "Java/Learn the basics/OOP Basics/More/OOP Principes",
+    "Java/Learn the basics/OOP Basics/More/Pass by Value or Pass by Reference.md",
+    "Java/Learn the basics/OOP Basics/More/Initializer Block.md",
+    "Java/Learn the basics/OOP Basics/More/Method Chaining.md",
+    "Java/Learn the basics/OOP Basics/More/Object Lifecycle.md",
+    "Java/Learn the basics/OOP Basics/More/Enums.md",
+    "Java/Learn the basics/OOP Basics/More",
+    "Java/Learn the basics/OOP Basics",
     "Spring Framework",
     "SQl",
-    "Learn the basics",
+    "Java/Learn the basics",
     "Java"
   ]
 }
